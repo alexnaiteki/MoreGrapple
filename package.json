@@ -1,0 +1,15 @@
+{
+
+	"id":"MoreGrapple",
+	"name":"MoreGrapple",
+	"version":"0.0.1 Pre-Alpha",
+	"author":"iSenzo and KizzaGaming",
+	"url":"",
+	"description":"This mod adds more Grapple into the game.Powered by UltimateLib",
+	"main":"./main.js",
+	"dependencies":{
+		"gdt-modAPI":"0.1.x",
+			"UltimateLib":"1.3.x"
+		}
+	
+}
